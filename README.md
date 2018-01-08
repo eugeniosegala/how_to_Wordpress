@@ -7,12 +7,19 @@ Help us by entering new code to expand our index!
 List:
 
 Action Hook example: action_hook.php
+
 Change name on your admin page: admin_page_name.php
+
 Add CSS on yout admin page: css_admin.php
+
 Customize your Wordpress Login: css_login.php
+
 Create new Custom Post Types: custom_post_types.php
+
 Filter Hook example: filter_hook.php
+
 Get the template URL: get_template_url.php
+
 ADD JS code on admin page: js_admin.php
 
 # MIT License
