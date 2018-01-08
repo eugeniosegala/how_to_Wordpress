@@ -6,7 +6,7 @@ Help us by entering new code to expand our index!
 
 List:
 
-Action Hook example: action_hook.php
+<strong>Action Hook example:</strong> action_hook.php
 
 Change name on your admin page: admin_page_name.php
 
