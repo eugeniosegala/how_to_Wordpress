@@ -8,19 +8,19 @@ List:
 
 <strong>Action Hook example:</strong> action_hook.php
 
-Change name on your admin page: admin_page_name.php
+<strong>Change name on your admin page:</strong> admin_page_name.php
 
-Add CSS on yout admin page: css_admin.php
+<strong>Add CSS on yout admin page:</strong> css_admin.php
 
-Customize your Wordpress Login: css_login.php
+<strong>Customize your Wordpress Login:</strong> css_login.php
 
-Create new Custom Post Types: custom_post_types.php
+<strong>Create new Custom Post Types:</strong> custom_post_types.php
 
-Filter Hook example: filter_hook.php
+<strong>Filter Hook example:</strong> filter_hook.php
 
-Get the template URL: get_template_url.php
+<strong>Get the template URL:</strong> get_template_url.php
 
-ADD JS code on admin page: js_admin.php
+<strong>ADD JS code on admin page:</strong> js_admin.php
 
 # MIT License
 
