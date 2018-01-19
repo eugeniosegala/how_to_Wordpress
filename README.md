@@ -6,21 +6,21 @@ Help us by entering new code to expand our index!
 
 List:
 
-<strong>Action Hook example:</strong> action_hook.php
+<strong>Action Hook example:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/action_hook.php">action_hook.php</a>
 
-<strong>Change name on your admin page:</strong> admin_page_name.php
+<strong>Change name on your admin page:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/admin_page_name.php">admin_page_name.php</a>
 
-<strong>Add CSS on yout admin page:</strong> css_admin.php
+<strong>Add CSS on yout admin page:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/css_admin.php">css_admin.php</a>
 
-<strong>Customize your Wordpress Login:</strong> css_login.php
+<strong>Customize your Wordpress Login:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/css_login.php">css_login.php</a>
 
-<strong>Create new Custom Post Types:</strong> custom_post_types.php
+<strong>Create new Custom Post Types:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/custom_post_types.php">custom_post_types.php</a>
 
-<strong>Filter Hook example:</strong> filter_hook.php
+<strong>Filter Hook example:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/filter_hook.php">filter_hook.php</a>
 
-<strong>Get the template URL:</strong> get_template_url.php
+<strong>Get the template URL:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/get_template_url.php">get_template_url.php</a>
 
-<strong>ADD JS code on admin page:</strong> js_admin.php
+<strong>ADD JS code on admin page:</strong> <a href="https://github.com/eugeniosegala/how_to_Wordpress/blob/master/nuts/js_admin.php">js_admin.php</a>
 
 # MIT License
 
